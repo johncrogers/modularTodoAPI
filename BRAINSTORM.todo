@@ -1,0 +1,21 @@
+What will store the data?:
+    Model
+    Technologies Of Interest:
+        ☐ PostgreSQL
+        Mongo
+        Neo4J
+        Redis
+What will serve the data?:
+    Controller
+    Technologies Of Interest:
+        ☐ RESTful - Node / Typescript
+        GraphQL
+        Rust
+        Java
+        Go
+What will consume the data?:
+    View
+    Technologies Of Interest:
+        ☐ React
+        ReactNative
+        Electron
