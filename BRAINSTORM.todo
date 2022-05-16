@@ -19,3 +19,12 @@ What will consume the data?:
         ☐ React
         ReactNative
         Electron
+
+PLAN:
+    Model:
+        Database:
+            ☐ PostgreSQL
+        API:
+            ☐ Nest - https://docs.nestjs.com/
+    UI:
+        ☐ Next - https://nextjs.org/
